@@ -6,7 +6,7 @@ export default function Home() {
     <main>
     
       <section className="h-[400px] bg-gradient-to-r from-gray-600 to-gray-400 flex items-center px-10 text-white">
-        <div max-w-xl>
+        <div className="max-w-xl">
           <h1 className="text-4xl font-bold">Precision 3D Printing Solutions</h1>
           <p className="mt-3 text-sm">
             Transform your ideas into reality with cutting-edge 3D printing.
